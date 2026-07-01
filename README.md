@@ -20,3 +20,7 @@
     </a>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Laminate32/Laminate32/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" />
+</p>

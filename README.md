@@ -10,7 +10,9 @@
     <img src="https://skillicons.dev/icons?i=babel,docker,postman,git" />
   </a>
 </p>
+
 ---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <a href="www.linkedin.com/in/matvii-nalyvaiko-b90474366">
